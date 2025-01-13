@@ -4,7 +4,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Recharts Next.js',
+  title: 'Recharts Mini App',
   description: 'An example of using Recharts with Next.js',
 };
 
